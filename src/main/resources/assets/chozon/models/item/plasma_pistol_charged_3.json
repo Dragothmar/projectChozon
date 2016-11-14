@@ -1,0 +1,6 @@
+{
+  "parent": "chozon:item/plasma_pistol_base",
+  "textures": {
+    "layer0": "chozon:items/plasma_pistol_charged_3"
+  }
+}

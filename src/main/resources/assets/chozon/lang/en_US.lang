@@ -1,0 +1,9 @@
+// Blocks
+tile.titanium_ore.name=Titanium Ore
+tile.titanium_block.name=Titanium Block
+
+// Items
+item.titanium.name=Titanium
+
+// Creative tab name
+itemGroup.chozon=Project Chozon
